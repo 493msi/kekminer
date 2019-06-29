@@ -1,0 +1,6 @@
+/target/
+.settings
+/config/
+/userdata/
+/.project
+/.classpath
